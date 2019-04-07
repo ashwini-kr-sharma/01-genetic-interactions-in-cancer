@@ -112,7 +112,7 @@ The objective of this project is to achieve the following:
 -   Make a coherent report of your complete analysis and results using R
     markdown.
 
-<img src="/img/SampleCounts.png" alt="Fig. 2 - Number of cell lines per cancer type" width="500"/>
+<img src="/img/SampleCounts.png" alt="Fig. 2 - Number of cell lines per cancer type">
 
 Description of datasets
 -----------------------
