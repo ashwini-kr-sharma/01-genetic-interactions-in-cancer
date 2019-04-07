@@ -45,7 +45,7 @@ discriminate between cancer and normal cells. An alternative strategy
 consists in targeting some other genes that interact with the driver
 genes in the cancer cell but not in the normal cells.
 
-<img src="/img/GraphicalAbstractDataScience.png" alt="Fig. 1 - Genetic interactions in cancer">
+<img src="/img/GraphicalAbstractDataScience.png" alt="Fig. 1 - Genetic interactions in cancer" width="500">
 
 Fig. 1 - Genetic interactions in cancer
 
@@ -112,7 +112,8 @@ The objective of this project is to achieve the following:
 -   Make a coherent report of your complete analysis and results using R
     markdown.
 
-<img src="/img/SampleCounts.png" alt="Fig. 2 - Number of cell lines per cancer type">
+<img src="/img/SampleCounts.png" alt="Fig. 2 - Number of cell lines per cancer type" width="400">
+Fig. 2 - Number of cell lines per cancer type
 
 Description of datasets
 -----------------------
