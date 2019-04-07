@@ -45,8 +45,8 @@ discriminate between cancer and normal cells. An alternative strategy
 consists in targeting some other genes that interact with the driver
 genes in the cancer cell but not in the normal cells.
 
-![Fig. 1 - Genetic interactions in
-cancer]
+[Fig. 1 - Genetic interactions in
+cancer](https://user-images.githubusercontent.com/46895034/55682544-6a1dfe00-5935-11e9-94d9-84c7f2bf4198.png)
 
 Fig. 1 - Genetic interactions in cancer
 
