@@ -18,6 +18,9 @@ Supervisor:
 -   Ashwini Sharma
     ([ashwini.sharma@uni-heidelberg.de](mailto:ashwini.sharma@bioquant.uni-heidelberg.de))
 
+Tutor:
+-
+
 Introduction
 ------------
 
@@ -221,7 +224,7 @@ presentation + 5 minutes discussion).
 
 ### Project
 
-You project **MUST** contain the following elements: 
+You project **MUST** contain the following elements:
 - **descriptive statistics** about the datasets
 - **graphical representations**
 - **dimension reduction** analysis (PCA, clustering or k-means)
