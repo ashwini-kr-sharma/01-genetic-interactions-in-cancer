@@ -1,7 +1,7 @@
 Genetic interactions and cancer cell survival
 =======================================================
 
-#### *Project overview and guidelines*
+### *Project overview and guidelines*
 
 -   [Introduction](#introduction)
 -   [Objective](#objective)
@@ -19,7 +19,7 @@ Supervisor:
     ([ashwini.sharma@uni-heidelberg.de](mailto:ashwini.sharma@bioquant.uni-heidelberg.de))
 
 Tutor:
--
+- David Schwarzenbacher ([david.schw@sol.at](mailto:david.schw@sol.at))
 
 Introduction
 ------------
