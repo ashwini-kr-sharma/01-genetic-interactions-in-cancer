@@ -212,10 +212,8 @@ How to structure your project
 You first task wil we to define a **project proposal**, which should
 include
 
--   list of planned analysis steps
--   milestones (important achievements)
--   deliverables (what kind of result will I produce for each
-    milestone)?
+-   summary of literature on this dataset
+-   questions you want to address
 -   approximate timetable
 
 You will present this project proposal together with a literature review
