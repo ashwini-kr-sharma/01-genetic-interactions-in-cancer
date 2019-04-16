@@ -121,10 +121,14 @@ Fig. 2 - Number of cell lines per cancer type
 Description of datasets
 -----------------------
 
-We have provided a R list object (as a .RDS file). Load it as below -
+We have provided a R list object (as a .RDS file). You can find the data
+using this link: [https://figshare.com/s/caa3448439fcf6032df4](https://figshare.com/s/caa3448439fcf6032df4)
+
+
+Once you have downloaded it, load it as below:
 
 ``` {.r}
-readRDS("path/to/your/directory/DepMap19Q1_allData.RDS")
+allDepMapData = readRDS("path/to/your/directory/DepMap19Q1_allData.RDS")
 names(allDepMapData)
 [1] "expression" "copynumber" "mutation"   "kd.ceres"   "kd.prob"    "annotation"
 ```
