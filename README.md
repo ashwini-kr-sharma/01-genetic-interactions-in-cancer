@@ -1,5 +1,5 @@
-Genetic interactions and cancer cell survival
-=======================================================
+Project 01: Genetic interactions and cancer cell survival
+=========================================================
 
 ### *Project overview and guidelines*
 
