@@ -13,7 +13,7 @@ Project 01: Genetic interactions and cancer cell survival
     -   [Project proposal](#project-proposal)
     -   [Project](#project)
     -   [Final presentation](#final-presentation)
--  [Scoring]
+-  [Scoring](#scoring)
 
 Supervisor:
 
