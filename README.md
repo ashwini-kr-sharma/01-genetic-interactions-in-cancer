@@ -1,6 +1,8 @@
 Project 01: Genetic interactions and cancer cell survival
 =========================================================
 
+### Data Sciece project based teaching - 2019
+
 ### *Project overview and guidelines*
 
 -   [Introduction](#introduction)
@@ -10,12 +12,14 @@ Project 01: Genetic interactions and cancer cell survival
 -   [How to structure your project](#how-to-structure-your-project)
     -   [Project proposal](#project-proposal)
     -   [Project](#project)
+    -   [Final presentation](#final-presentation)
+-  [Scoring]
 
 Supervisor:
 
 -   Carl Herrmann
     ([carl.herrmann@uni-heidelberg.de](mailto:carl.herrmann@uni-heidelberg.de))
--   Ashwini Sharma
+-   Ashwini Kumar Sharma
     ([ashwini.sharma@uni-heidelberg.de](mailto:ashwini.sharma@bioquant.uni-heidelberg.de))
 
 Tutor:
@@ -182,30 +186,30 @@ Read these reviews to gain some understanding of genetic interactions in
 cancer.
 
 -   Ashworth, Alan, Christopher J. Lord, and Jorge S. Reis-Filho.
-    “Genetic interactions in cancer progression and treatment.” Cell
+    [Genetic interactions in cancer progression and treatment](https://www.cell.com/fulltext/S0092-8674(11)00297-2) Cell
     145.1 (2011): 30-38.
 
--   O’Neil, Nigel J., Melanie L. Bailey, and Philip Hieter. “Synthetic
-    lethality and cancer.” Nature Reviews Genetics 18.10 (2017): 613.
+-   O’Neil, Nigel J., Melanie L. Bailey, and Philip Hieter. [Synthetic
+    lethality and cancer](https://www.nature.com/articles/nrg.2017.47) Nature Reviews Genetics 18.10 (2017): 613.
 
 #### Experimental methods
 
 An experimental example of killing ovarian cancer cells specifically
 with ARID1A mutation by inhibiting BRD2.
 
--   Berns, Katrien, et al. “ARID1A mutation sensitizes most ovarian
-    clear cell carcinomas to BET inhibitors.” Oncogene (2018): 1.
+-   Berns, Katrien, et al. [ARID1A mutation sensitizes most ovarian
+    clear cell carcinomas to BET inhibitors](https://www.nature.com/articles/s41388-018-0300-6) Oncogene (2018): 1.
 
 #### Computational methods
 
 Read these papers to understand how we can computationally identify
 novel genetic interactions in cancer
 
--   Jerby-Arnon, Livnat, et al. “Predicting cancer-specific
-    vulnerability via data-driven detection of synthetic lethality.”
+-   Jerby-Arnon, Livnat, et al. [Predicting cancer-specific
+    vulnerability via data-driven detection of synthetic lethality](https://www.sciencedirect.com/science/article/pii/S0092867414009775)
     Cell 158.5 (2014): 1199-120
--   Rauscher, Benedikt, et al. “Toward an integrated map of genetic
-    interactions in cancer cells.” Molecular systems biology 14.2
+-   Rauscher, Benedikt, et al. [Toward an integrated map of genetic
+    interactions in cancer cells](https://www.embopress.org/doi/full/10.15252/msb.20177656) Molecular systems biology 14.2
     (2018): e7656.
 
 How to structure your project
@@ -278,3 +282,18 @@ Imagine how you could try to **predict** sensitivity of cell lines to
 knockdown using other features as input. Test how well this might work.
 Alternatively, can you **predict** the impact of gene mutations or copy
 number alterations on the expression of that gene?
+
+### Final presentation
+
+You will have to present your findings in a 15 min presentation followed by 15 min of questioning
+
+Scoring
+=======
+
+You will be graded on -
+- Quality of project proposal (realistic vs ambitious vs planning)
+- Teamwork and individual contributions
+- Completion of essential statistical tasks
+- Understanding of concepts
+- Troubleshooting
+- FInal presentation
